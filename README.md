@@ -9,3 +9,5 @@ $ cargo run -- 010000000242d5c1d6f7308bbe95c0f6e1301dd73a8da77d2155b0773bc297ac4
 ```
 
 Project taken from [here](https://github.com/bitcoin-dev-project/bitcoiner-intro-to-rust).
+
+Note: Currently this transaction decoder only supports non-segwit transactions.
